@@ -1,0 +1,36 @@
+{"frames": {
+
+"Icicle1.png":
+{
+	"frame": {"x":0,"y":0,"w":6,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":3},
+	"sourceSize": {"w":6,"h":3}
+},
+"Icicle2.png":
+{
+	"frame": {"x":0,"y":3,"w":6,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":8},
+	"sourceSize": {"w":6,"h":8}
+},
+"Icicle3.png":
+{
+	"frame": {"x":0,"y":11,"w":8,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":12},
+	"sourceSize": {"w":8,"h":12}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Icicle.png",
+	"format": "RGBA8888",
+	"size": {"w":8,"h":23},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:26770c8c39046d34956b87efd91b476f:252996b28bb8eb2a5c6c52da2f6ce3a5:7eaac1eaba17a65b3fca3136dc59c899$"
+}
+}

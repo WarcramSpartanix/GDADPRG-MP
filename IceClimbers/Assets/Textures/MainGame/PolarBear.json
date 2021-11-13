@@ -1,0 +1,44 @@
+{"frames": {
+
+"PolarBear1.png":
+{
+	"frame": {"x":0,"y":0,"w":15,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":30},
+	"sourceSize": {"w":15,"h":30}
+},
+"PolarBear2.png":
+{
+	"frame": {"x":15,"y":0,"w":13,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":31},
+	"sourceSize": {"w":13,"h":31}
+},
+"PolarBear3.png":
+{
+	"frame": {"x":28,"y":0,"w":15,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":30},
+	"sourceSize": {"w":15,"h":30}
+},
+"PolarBear4.png":
+{
+	"frame": {"x":43,"y":0,"w":16,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":29},
+	"sourceSize": {"w":16,"h":29}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "PolarBear.png",
+	"format": "RGBA8888",
+	"size": {"w":59,"h":31},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cf0fc6290046784acddb3fa692ab407a:65dd4d05a42d0bfc19e86f8765484a55:6cdfdc738dfd9ca515b0dda317968909$"
+}
+}

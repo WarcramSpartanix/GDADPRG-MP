@@ -1,0 +1,36 @@
+{"frames": {
+
+"IceCube1.png":
+{
+	"frame": {"x":0,"y":0,"w":8,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":10},
+	"sourceSize": {"w":8,"h":10}
+},
+"IceCube2.png":
+{
+	"frame": {"x":0,"y":10,"w":8,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":15},
+	"sourceSize": {"w":8,"h":15}
+},
+"IceCube3.png":
+{
+	"frame": {"x":0,"y":25,"w":7,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":11},
+	"sourceSize": {"w":7,"h":11}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "IceCube.png",
+	"format": "RGBA8888",
+	"size": {"w":8,"h":36},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:132b18f295084dadc44ff68a05aaa105:0636d07734f192fdcf728e0e33b3d5fb:6e9c75a543cfe7f20fd31aa9bc28c620$"
+}
+}

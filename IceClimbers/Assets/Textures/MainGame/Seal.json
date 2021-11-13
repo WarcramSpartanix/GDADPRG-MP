@@ -1,0 +1,44 @@
+{"frames": {
+
+"Seal1.png":
+{
+	"frame": {"x":0,"y":0,"w":16,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":14}
+},
+"Seal2.png":
+{
+	"frame": {"x":16,"y":0,"w":15,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":14},
+	"sourceSize": {"w":15,"h":14}
+},
+"Seal3.png":
+{
+	"frame": {"x":31,"y":0,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":15}
+},
+"SealDead.png":
+{
+	"frame": {"x":44,"y":0,"w":14,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":15},
+	"sourceSize": {"w":14,"h":15}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Seal.png",
+	"format": "RGBA8888",
+	"size": {"w":58,"h":15},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:acd527a8c881189c25ca52c83aefebd0:d03cf85e60e47348a989a8acc2418976:2456e2da8e1df9b08dde4268cf556df8$"
+}
+}
